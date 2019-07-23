@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2019-07-23 10:59:00-0400
 inline: true
 ---
 
-TODO: we add our announcments here
+Workshop proposal [accepted at NeurIPS 2019](https://medium.com/@NeurIPSConf/2019workshops-ec820e4d558e)
+
