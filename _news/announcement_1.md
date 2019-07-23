@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-07-21 15:59:00-0400
+date: 2019-07-23 10:59:00-0400
 inline: true
 ---
 
-The Retrospectives website is now live! 
+Workshop proposal [accepted at NeurIPS 2019](https://medium.com/@NeurIPSConf/2019workshops-ec820e4d558e)
