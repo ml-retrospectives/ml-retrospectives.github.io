@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>ML</strong> Retrospectives
-description: A venue for reflecting on ML research.
+description: A venue for reflecting on machine learning research.
 
 profile:
   align: right
