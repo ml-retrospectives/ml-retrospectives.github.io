@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /faq/
-title: faq
-description: faq
+title: Faq
+description: Frequently Asked Questions
 ---
-TODO: faq
+
+Coming Soon!

@@ -18,7 +18,7 @@
 .site-nav {
     float: right;
     line-height: $nav-height;
-    
+
     .nav-trigger {
         display: none;
     }
@@ -26,7 +26,7 @@
     .menu-icon {
         display: none;
     }
-    
+
     .page-link{
         line-height: $line-height;
         // Gaps between nav items, but not on the first one
@@ -107,4 +107,14 @@
     h2{
         font-size:25px;
     }
+}
+
+.header-background {
+  background-image: url("../img/header_large.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 15em;
+  margin-bottom: 2em;
+  margin-top: -2.7em;
 }
