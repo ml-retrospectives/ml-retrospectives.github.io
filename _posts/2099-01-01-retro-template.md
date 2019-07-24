@@ -11,18 +11,18 @@ description: A template to follow for writing a retrospective.
 
 Retrospective written by [Retrospective Author Name]
 
-# Paper TL;DR: 
+## Paper TL;DR: 
 
 Short description summarizing the retrospective.
 
-# Overall Outlook
+## Overall Outlook
 
 Description of the retrospective author's perspective of the impact of the paper.
 
-# Opportunities for Improvement
+## Opportunities for Improvement
 
 Please provide multiple sub-sections regarding opportunities for improvement.
 
-# New Perspectives
+## New Perspectives
 
 Please provide a description of how the author's perspective regarding this work or its subject area has changed since the publciation of this paper. 

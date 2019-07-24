@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /faq/
-title: Faq
+title: FAQ
 description: Frequently Asked Questions
 ---
 
