@@ -25,5 +25,5 @@ Some researchers already update their published work periodically, either throug
 
 ***The ultimate goal of retrospectives is to do better science, increase the openness and accessibility of the machine learning field, and to show that it’s okay to make mistakes.***
 
-Have a previous paper where, looking back, you think: *“Huh, there’s a lot more I could say about this now”*? Consider writing a retrospective! Here’s how to do it.
+Have a previous paper where, looking back, you think: *“Huh, there’s a lot more I could say about this now”*? Consider writing a retrospective! [Here’s how to do it](https://ml-retrospectives.github.io/retrospectives/how/).
 

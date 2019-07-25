@@ -16,7 +16,7 @@ We’ve tried to make writing and submitting a retrospective as simple as possib
 
 **Step 3:**  *Submit your retrospective* by submitting a pull request to our GitHub repository [here](https://github.com/ml-retrospectives/retrospectives), using the pull request template. Once we confirm that the retrospective was written by an author of the original paper, it’ll be listed on the website! We strongly recommend that you update your paper on arXiv (if possible) to include a link to your retrospective as a footnote on the first page. 
 
-Retrospectives are written in markdown, which is very simple to use and supports both images and code snippets. If you’re unfamiliar with markdown, see a quick cheat sheet [here](https://en.support.wordpress.com/markdown-quick-reference/) or a longer intro [here](https://www.markdownguide.org/getting-started/). If you’re not sure how to make a pull request, there are many tutorials online, for example [here](https://help.github.com/en/articles/creating-a-pull-request). 
+Retrospectives are written in Markdown, which is very simple to use and supports both images and code snippets. If you’re unfamiliar with markdown, see a quick cheat sheet [here](https://en.support.wordpress.com/markdown-quick-reference/) or a longer intro [here](https://www.markdownguide.org/getting-started/). If you’re not sure how to make a pull request, there are many tutorials online, for example [here](https://help.github.com/en/articles/creating-a-pull-request). 
 
 
 ### What to write
