@@ -9,13 +9,13 @@ ML Retrospectives and the Retrospectives workshop prioritize the maintenance of 
 
 All participants, including attendees, authors, members of the organizing committee, members of the program committee, speakers, sponsors, and volunteers, are required to agree with the following code of conduct. Organisers will enforce this code throughout the workshop and the review and publication process of Retrospectives. 
 
-## The Quick Version
+### The Quick Version
 
 Retrospectives is dedicated to providing a harassment-free experience for everyone. This  includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, physical appearance, family status, technological or professional choices, academic discipline, religion, mental ability, and physical ability. We do not tolerate harassment of participants in any form. 
 
 This code of conduct applies to all spaces in which Retrospectives are shared, both online and off.  In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
 
-## The Longer version
+### The Longer version
 
 We are committed to fostering a productive, harassment-free environment for everyone. Rather than considering this code an exhaustive list of things that you can’t do, take it in the spirit it is intended - a guide to make it easier to enrich all of us and the communities in which we participate.
 
@@ -38,13 +38,13 @@ By embracing the following principles, guidelines and actions to follow or avoid
 7. When we disagree, try to understand why. Disagreements, both social and technical, happen all the time. Try to understand where others are coming from, as seeing a question from their viewpoint may help find a new path forward. And don’t forget that it is human to err: blaming each other doesn’t get us anywhere, while we can learn from mistakes to find better solutions.
 8. A simple apology can go a long way. It can often de-escalate a situation, and telling someone that you are sorry is an act of empathy that doesn’t automatically imply an admission of guilt.
 
-##Reporting
+### Reporting
 
 If you believe someone is violating the code of conduct, please report this in a timely manner. Code of conduct violations reduce the value of the community for everyone and we take them seriously.
 You can file a report by emailing . For more details or information on reporting in-person at an event, please see our Reporting Guidelines.
 The online form gives you the option to keep your report anonymous or request that we follow up with you directly. While we cannot follow up on an anonymous report, we will take appropriate action.
 
-###Acknowledgements
+### Acknowledgements
 
 Original text courtesy of ConfCodeofConduct, Speak Up!, Django, and Project Jupyter. We are grateful to those projects for contributing these materials under open licensing terms for us to easily reuse.
 All content on this page is licensed under a Creative Commons Attribution license.
