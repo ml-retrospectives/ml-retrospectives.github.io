@@ -4,7 +4,7 @@ permalink: /how/
 title: How it works
 ---
 
-##Getting started
+## Getting started
 
 We’ve tried to make writing and submitting a retrospective as simple as possible. There are three steps:
 
@@ -17,7 +17,7 @@ We’ve tried to make writing and submitting a retrospective as simple as possib
 Retrospectives are written in markdown, which is very simple to use and supports both images and code snippets. If you’re unfamiliar with markdown, see a quick cheat sheet [here](https://en.support.wordpress.com/markdown-quick-reference/) or a longer intro [here](https://www.markdownguide.org/getting-started/). If you’re not sure how to make a pull request, there are many tutorials online, for example [here](https://help.github.com/en/articles/creating-a-pull-request). 
 
 
-##What to write
+## What to write
 
 What are things you can write about in a retrospective? In short, you can write about anything that’s relevant to your original paper, but that is not actually contained in the paper. See some examples of previous retrospectives here. 
 
@@ -33,7 +33,7 @@ For example, you have reason to believe your approach doesn’t generalize well 
 For example, you have a simpler way to motivate your idea, or your intuition for why your model or approach works has changed. Maybe there are new aspects of your idea that you didn’t explore in the paper, but want to talk about, or new visualizations that improve understanding. These can be accompanied by additional (informal) results. You can also point to new work by others that is relevant to the paper. *Basically, anything that you’ve learned since writing the original paper that would be useful for others to know.*
 
 
-##Reviewing process
+## Reviewing process
 
 We want to make retrospectives open to everyone, and to require minimal oversight. As such, retrospectives submitted to the GitHub repository will not be officially peer-reviewed. We will judge a retrospective on two factors:
 
