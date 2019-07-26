@@ -1,6 +1,6 @@
 ---
 layout: page 
-permalink: /accepted_retrospectives
+permalink: /accepted_retrospectives/index.html
 title: Accepted Retrospectives
 ---
 
