@@ -1,7 +1,7 @@
 ---
 layout: page 
-permalink: /accepted_retrospectives/index.html
-title: Accepted Retrospectives
+permalink: /published_retrospectives/index.html
+title: Published Retrospectives
 ---
 
 This is just a placeholder for the header. It should not appear on the website
