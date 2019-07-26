@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  Retrospective for: [*"A Quick Template for Writing Retrospectives"*](https://ml-retrospectives.github.io/retrospectives/accepted_retrospectives/2099/retro-template/)
+title:  Retrospective Template
 date:   2099-01-01 16:40:16
 ---
+
+## Retrospective for: [*"A Quick Template for Writing Retrospectives"*](https://ml-retrospectives.github.io/retrospectives/accepted_retrospectives/2099/retro-template/)
 Paper written by: Alfred Einstein, Mary Curry. 
 
 Retrospective written by: Alfred Einstein.
