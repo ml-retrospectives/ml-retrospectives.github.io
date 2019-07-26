@@ -2,12 +2,12 @@
 
   <div class="wrapper">
 
-    {% if page.layout != "about" %}
+    <a href="{{ site.baseurl | prepend: site.url }}/">
     <span class="site-title">
         {% assign name = site.name | split: ' ' %}
         <strong>{{ name | first }}</strong> {{ name | last }}
     </span>
-    {% endif %}
+    </a>
 
     <nav class="site-nav">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -22,12 +22,6 @@
         </label>
 
       <div class="trigger">
-        <!-- About -->
-        <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">About</a>
-
-        <!-- Blog -->
-        <a class="page-link" href="{{ '/accepted_retrospectives/' | prepend: site.baseurl | prepend: site.url }}">Accepted Retrospectives</a>
-
         <!-- Pages -->
         {% for page in site.pages %}
           {% if page.title and page.url != "/" %}
