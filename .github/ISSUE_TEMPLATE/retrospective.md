@@ -2,15 +2,9 @@
 name: Retrospective
 about: Template to submit a retrospective
 title: "[SUBMISSION] Title of the paper"
-labels: ''
+labels: 'retrospective'
 assignees: ''
 
----
-
----
-layout: post
-title:  Retrospective Template
-date:   2099-01-01 16:40:16
 ---
 
 ## Retrospective for: [*"A Quick Template for Writing Retrospectives"*](https://ml-retrospectives.github.io/retrospectives/accepted_retrospectives/2099/retro-template/)
