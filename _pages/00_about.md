@@ -27,3 +27,5 @@ Some researchers already update their published work periodically, either throug
 
 Have a previous paper where, looking back, you think: *“Huh, there’s a lot more I could say about this now”*? Consider writing a retrospective! [Here’s how to do it](https://ml-retrospectives.github.io/retrospectives/how/).
 
+Questions? Contact *lowe.ryan.t@gmail.com*. 
+
