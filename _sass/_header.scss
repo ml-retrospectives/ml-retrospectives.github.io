@@ -109,12 +109,21 @@
     }
 }
 
-.header-background {
+.header-background .img {
   background-image: url("../img/header_large.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: center bottom;
   height: 15em;
   margin-bottom: 2em;
   margin-top: -2.7em;
+}
+
+.header-background .text {
+  margin-top: -4em;
+  text-align: right;
+  margin-right: 2em;
+  padding-bottom: 2em;
+  color: white;
+  font-weight: bold;
 }

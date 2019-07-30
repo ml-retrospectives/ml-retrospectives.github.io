@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: ML Retrospectives
-email: 
+email:
 description: > # this means to ignore newlines until "url:"
   A Venue for Self-Reflection in ML Research
 footer_text: >
@@ -33,13 +33,13 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Accepted Retrospectives
+blog_name: Published Retrospectives
 blog_description: These are retrospectives which have been reviewed and accepted.
 
 # Pagination
 paginate: 4
-permalink: /accepted_retrospectives/:year/:title/
-paginate_path: /accepted_retrospectives/page:num/
+permalink: /published_retrospectives/:year/:title/
+paginate_path: /published_retrospectives/page:num/
 
 text:
   pagination:
