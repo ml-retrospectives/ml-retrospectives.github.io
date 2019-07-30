@@ -43,11 +43,26 @@ This is a subsection where you could describe one of the opportunities for impro
 
 For example, I could have written some code like this, which would have made my approach more reproducible:
 
-~~~~
+```python
 for thing in range(list_of_things):
     if thing > other_thing:
         print("I'm inside a print statement!")
-~~~~
+```
+
+**Adding Photos**
+
+You can add a photo by writing:
+
+`![Image Description](Image_URL)`
+
+e.g.
+
+![Gaussians](https://upload.wikimedia.org/wikipedia/commons/9/9b/Gaussian_training_data.png)
+
+To upload an image, you can use services such as [Dropbox](https://www.codecademy.com/articles/host-images-on-dropbox) or in a GitHub repo, using a path to your image:
+
+`![Image Title](https://raw.github.com/{username}/{repository}/{branch}/{path})`
+
 
 
 ### New Perspectives
