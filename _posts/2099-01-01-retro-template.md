@@ -41,11 +41,43 @@ This is a subsection where you could describe one of the opportunities for impro
 
 For example, I could have written some code like this, which would have made my approach more reproducible:
 
-~~~~
+```python
 for thing in range(list_of_things):
     if thing > other_thing:
         print("I'm inside a print statement!")
-~~~~
+```
+
+**Adding Photos**
+
+You can add a photo by writing:
+
+`![Image Description](Image_URL)`
+
+e.g.
+
+![Gaussians](https://upload.wikimedia.org/wikipedia/commons/9/9b/Gaussian_training_data.png)
+
+Custom sizing and alignment can be included by adding the image using HTML:
+
+`<p align=center><img src="image_url" width="x%"></p>`
+
+
+<p align=center><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Gaussian_training_data.png" width="30%"></p>
+
+To upload an image, you can use services such as Dropbox or in a GitHub repo, using a path to your image.
+
+- **Dropbox:** 
+
+Create a [shared link](https://help.dropbox.com/files-folders/share/view-only-access) to your image and [replace the characters](https://support.zendesk.com/hc/en-us/articles/232005968-Embed-Dropbox-images-on-Help-Center-articles) `?dl=0` with `?raw=1`
+
+`http://www.dropbox.com/{path_to_your_image}?raw=1`
+
+- **GitHub:** 
+
+Please include a link the the repo in the following format
+
+`https://raw.github.com/{username}/{repository}/{branch}/{path}`
+
 
 
 ### New Perspectives
