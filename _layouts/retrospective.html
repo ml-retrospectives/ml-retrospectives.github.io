@@ -8,13 +8,13 @@ layout: default
     <p class="post-meta">{% if page.retrospective_author %}{{ page.retrospective_author }} • {% endif %}{{ page.date | date: "%B %-d, %Y" }}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
-  <ul>
-    <li>Original Paper : <a href="{{page.original_paper_link}}">{{page.original_paper}}</a>
-    <li>Paper written by : {{page.original_paper_authors}}</li>
-    <li>Retrospective written by : {{page.retrospective_author}}</li>
-  </ul>
-
   <article class="post-content">
+    <ul>
+      <li>Original Paper : <a href="{{page.original_paper_link}}">{{page.original_paper}}</a>
+      <li>Paper written by : {{page.original_paper_authors}}</li>
+      <li>Retrospective written by : {{page.retrospective_author}}</li>
+    </ul>
+
     {{ content }}
   </article>
 
