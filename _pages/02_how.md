@@ -8,7 +8,7 @@ Interested in writing a retrospective? Great! Here's some info on how you can ge
 
 ### Getting started
 
-We’ve tried to make writing and submitting a retrospective as simple as possible. There are three steps:
+There are three steps to submitting a retrospective:
 
 >**Step 1:**  **Pick a past paper of yours**, where you have something to say beyond what’s already in the paper. 
 

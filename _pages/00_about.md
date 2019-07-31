@@ -11,6 +11,10 @@ profile:
 news: true
 social: true
 ---
+
+
+*Start writing your retrospective [here](https://ml-retrospectives.github.io/how/)!*
+
 # What is a retrospective?
 
 In science, the main way we communicate cutting-edge results is by writing papers. Papers are good because they give a blueprint for how the researchers got their results; papers usually motivate the main idea, describe how the researchers set up their experiments, and compare to existing approaches in the field. 
