@@ -12,7 +12,7 @@ layout: page
   {% for post in paginator.posts %}
     <li>
       <h3><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-      <p class="post-meta">{% if page.retrospective_author %}{{ page.retrospective_author }} • {% endif %}{{ page.date | date: "%B %-d, %Y" }}</p>
+      <p class="post-meta">{{ post.date | date: '%B %-d, %Y }}</p>
       <p>{{ post.description }}</p>
     </li>
   {% endfor %}
