@@ -33,7 +33,7 @@ To give more concrete guidance, below we list three categories of topics that ca
 For example, you discovered a bias in your dataset, or there was accidentally some overlap between validation and test, or there’s a weird bug that you don’t know the cause of and didn’t really figure out. Maybe you didn’t run enough seeds, and when you run more seeds your method isn’t actually that much better. *Basically, any way in which your scientific methodology was flawed or lacking.* 
 
 2. **Limitations in the applicability of the work.**
-For example, you have reason to believe your approach doesn’t generalize well to other datasets, or your results are not robust to small changes in the experimental set-up. Maybe you tried switching from MLPs to LSTMs and everything broke. Maybe your classification model works better, but is less robust to adversarial attacks. *Basically, any way in which your approach was limited that you didn’t realize or acknowledge at the time. *
+For example, you have reason to believe your approach doesn’t generalize well to other datasets, or your results are not robust to small changes in the experimental set-up. Maybe you tried switching from MLPs to LSTMs and everything broke. Maybe your classification model works better, but is less robust to adversarial attacks. *Basically, any way in which your approach was limited that you didn’t realize or acknowledge at the time.*
 
 3. **Changes in understanding or intuition.** 
 For example, you have a simpler way to motivate your idea, or your intuition for why your model or approach works has changed. Maybe there are new aspects of your idea that you didn’t explore in the paper, but want to talk about, or new visualizations that improve understanding. These can be accompanied by additional (informal) results. You can also point to new work by others that is relevant to the paper. *Basically, anything that you’ve learned since writing the original paper that would be useful for others to know.*
@@ -44,7 +44,7 @@ For example, you have a simpler way to motivate your idea, or your intuition for
 We want to make retrospectives open to everyone, and to require minimal oversight. As such, retrospectives submitted to the GitHub repository will not be officially peer-reviewed. We will judge a retrospective on two factors:
 
 1. The retrospective is written by an author of the original paper, and is relevant to the content of the original paper.
-2. The retrospective complies with our code of conduct.
+2. The retrospective complies with our [code of conduct](https://ml-retrospectives.github.io/coc/).
 
 Note that the criteria for acceptance of the retrospective to the NeurIPS 2019 workshop may be more stringent. If there is sufficient interest, we will consider starting an alternate publication for high-quality retrospectives, which will be reviewed more thoroughly. 
 
