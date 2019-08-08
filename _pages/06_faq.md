@@ -15,6 +15,17 @@ A: Here are a few reasons you might want to write a retrospective:
 4.  To reduce the number of emails you get about the same issues regarding your paper. 
 
 
+### Q: Why can't you just update the arXiv paper, or write an actual blog post, or (insert thing here)?
+
+A: Some researchers already update their published work periodically, either through blog posts, conversations at conferences, or by uploading new versions of the paper to arXiv. We view retrospectives as complementary to these approaches, with specific benefits: retrospectives are informal (more like blog posts than papers), publicly accessible (don’t require conference attendance), and centrally located (all retrospectives are in one place). 
+
+Also, part of the reason we created ML Retrospectives was that many researchers simply don't update their past work. We want to explicitly incentivize honest discussion of past papers. This involves both making these discussions publishable (for example, in the form of our NeurIPS workshop), and by creating a cultural norm around doing it. 
+
+### Q: This is never going to work! Researchers are too self-interested!
+
+A: We're not sure if this is going to work either! ML Retrospectives is an experiment to see if there is appetite in the community for this kind of honest discussion. We think that even if a few people start writing retrospectives, this could have an impact, at least for people who read the original papers. Hopefully, it also starts debate and conversation around how to improve the scientific process. 
+
+
 ### Q: Hasn't this been done before?
 
 A: To our knowledge, having a repository for authors' critiques of their past papers isn't something that has been done before in machine learning (or at least, it's not commonly used). There is a very related project in psychology called the [Loss of Confidence Project](https://lossofconfidence.com/), where researchers can submit forms indicating that they've lost confidence in the main result of their paper. 
@@ -23,6 +34,10 @@ A: To our knowledge, having a repository for authors' critiques of their past pa
 ### Q: I'm having trouble writing or uploading my retrospective. What should I do?
 
 A: Reach out and contact Ryan Lowe at *ryan.lowe@mail.mcgill.ca*.
+
+### Q: I have an idea for making this even better! What should I do?
+
+A: Also reach out and contact Ryan Lowe at *ryan.lowe@mail.mcgill.ca*.
 
 ### Q: Who is involved with this project? 
 
