@@ -13,7 +13,7 @@ All participants, including attendees, authors, members of the organizing commit
 
 Retrospectives is dedicated to providing a harassment-free experience for everyone. This  includes, but is not limited to, members of any race, ethnicity, culture, national origin, color, immigration status, social and economic class, educational level, sex, sexual orientation, gender identity and expression, age, physical appearance, family status, technological or professional choices, academic discipline, religion, mental ability, and physical ability. We do not tolerate harassment of participants in any form. 
 
-This code of conduct applies to all spaces in which Retrospectives are shared, both online and off.  In addition, violations of this code outside these spaces may affect a person's ability to participate within them.
+This code of conduct applies to all spaces in which Retrospectives are shared, both online and off.  In addition, violations of this code outside these spaces will affect a person's ability to participate within them.
 
 ### The Longer version
 
