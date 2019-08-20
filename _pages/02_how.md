@@ -27,7 +27,7 @@ Retrospectives are written in Markdown, which is basically a text file with some
 
 What are things you can write about in a retrospective? In short, you can write about anything that’s relevant to your original paper, but that is not actually contained in the paper. See some examples of previous retrospectives [here](https://ml-retrospectives.github.io/published_retrospectives/index.html). 
 
-To give more concrete guidance, below we list three categories of topics that can be considered for writing a retrospective. A retrospective can talk about all or none of these things. Retrospectives can also be accompanied by updates to the original paper; we particularly recommend this if serious flaws were found in the paper. 
+To give more concrete guidance, below we list three categories of topics that can be considered for writing a retrospective. A retrospective can talk about all or none of these things. Retrospectives can also be accompanied by updates to the original paper; we particularly recommend this if serious flaws were found in the paper. Remember, the goal isn't to assign blame (including to your co-authors), but rather to reveal new aspects of your paper that were previously in your head. 
 
 1. **Flaws or mistakes in the paper’s methodology.** 
 For example, you discovered a bias in your dataset, or there was accidentally some overlap between validation and test, or there’s a weird bug that you don’t know the cause of and didn’t really figure out. Maybe you didn’t run enough seeds, and when you run more seeds your method isn’t actually that much better. *Basically, any way in which your scientific methodology was flawed or lacking.* 

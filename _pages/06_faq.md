@@ -23,7 +23,11 @@ Also, part of the reason we created ML Retrospectives was that many researchers 
 
 ### Q: Help! I don't know how to make a pull request!
 
+There are some guides on how to make a pull request online, such as [here](https://help.github.com/en/articles/creating-a-pull-request). If you're still confused, reach out and contact *ml.retrospectives@gmail.com*.
 
+### Q: I'm a senior researcher and don't have a GitHub account. What do I do?
+
+We can likely find a way to accommodate you --- reach out and contact *ml.retrospectives@gmail.com*. 
 
 ### Q: This is never going to work! Researchers are too self-interested!
 

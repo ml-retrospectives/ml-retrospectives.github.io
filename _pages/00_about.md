@@ -12,7 +12,6 @@ news: true
 social: true
 ---
 
-
 <table style="background-color: #FAFAFA;">
         <col width="40">
         <col width="100">
@@ -49,20 +48,28 @@ social: true
 
 #### ***Submit before September 15 to be considered for the [NeurIPS Retrospectives Workshop](https://ml-retrospectives.github.io/neurips2019/)!***
 
-
-<br>
-    
+<div style="line-height:40%;">
+    <br>
+</div>
 
 # What is a retrospective?
 
 
 #### *Think about how you talk about your research when writing a paper.* 
 
+<div style="line-height:60%;">
+    <br>
+</div>
+
 <center>
 (Pause for a second.)
 </center>
 
 #### *Now, think about how you’d talk about your research to a good friend who wanted to build on it.*
+
+<div style="line-height:70%;">
+    <br>
+</div>
 
 Feel the difference? For most of us, **writing papers is like a performance**: we’re trying to make our results look as good as possible so that reviewers will like it. There’s nothing wrong with that! But often, *this performance hides some important parts about our research*: tricks that were crucial to get a model to work, or limitations of the approach on different datasets. Sometimes, we don’t realize until later that there were flaws in the original paper. **The problem is that researchers aren’t really incentivized to go back and fix them**, or to talk about them at all. 
 
@@ -71,7 +78,7 @@ We think that being open and transparent about your past research is really impo
 #### *The ultimate goal of retrospectives is to make research more human.* 
 That means getting researchers to write papers like how they’d talk to a friend. It means making research transparent and accessible for everyone. And it means creating an environment in the machine learning community where it’s okay to make mistakes. After all, in the scientific endeavor, we’re all on the same team. 
 
-Have a previous paper where, looking back, you think: *“Huh, there’s a lot more I could say about this now”*? Consider writing a retrospective! [Here’s how to do it](https://ml-retrospectives.github.io/how/).
+Have a previous paper where, looking back, you think: *“Huh, there’s a lot more I could say about this now”*? Consider writing a retrospective! [Here’s how to do it](https://ml-retrospectives.github.io/how/). Know a paper that you want to see a retrospective written about? 
 
 Questions? Contact *ml.retrospectives@gmail.com*. 
 
