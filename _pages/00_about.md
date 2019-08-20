@@ -13,31 +13,36 @@ social: true
 ---
 
 
-
-<table style="border-collapse: collapse; border: none;">
-        <tr style="border: none;" align="center">       
+<table style="background-color: #FAFAFA;">
+        <col width="40">
+        <col width="100">
+        <tr style="border: none;">       
             <td style="border: none;">
             <b> <font size="+2">Talk about flaws in your paper's methodology </font> </b>
             </td>
             <td style="border: none;">
-            <b><font size="+2">Reveal limitations of your approach</font></b>
-            </td>
-            <td style="border: none;">
-            <b> <font size="+2">Discuss new perspectives on your work</font></b> 
-            </td>
+            <i> "We didn't actually optimize the performance of the baseline very much. We thought using the default parameters from previous work would be fine, but on our dataset it leads to instability." </i>   
+            </td>                        
         </tr>
         <tr style="border: none;">        
             <td style="border: none;">
-            <i> "We didn't actually optimize the performance of the baseline very much. We thought using the default parameters from previous work would be fine, but on our dataset it leads to instability." </i>            
+            <b><font size="+2">Reveal limitations of your approach</font></b>
             </td>
             <td style="border: none;">
             <i> "We also tested our model on CIFAR-100, but it didn't work that well, so we didn't include it in the paper."</i>
+            </td>                      
+        </tr>
+        <tr style="border: none;">    
+        <td style="border: none;">
+            <b> <font size="+2">Discuss new perspectives on your work</font></b> 
             </td>
             <td style="border: none;">
             <i> "When we wrote the paper, we thought our method would be most applicable to hierarchical RL. But now I think it'd work really well in multi-agent RL, with centralized learning and decentralized execution."</i>
-            </td>            
+            </td>  
         </tr>
   </table>   
+
+
   
   
 #### ***Start writing your retrospective [here](https://ml-retrospectives.github.io/how/)! See some previous examples [here](http://localhost:4000/published_retrospectives/index.html).*** 
