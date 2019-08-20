@@ -21,6 +21,10 @@ A: Some researchers already update their published work periodically, either thr
 
 Also, part of the reason we created ML Retrospectives was that many researchers simply don't update their past work. We want to explicitly incentivize honest discussion of past papers. This involves both making these discussions publishable (for example, in the form of our NeurIPS workshop), and by creating a cultural norm around doing it. 
 
+### Q: Help! I don't know how to make a pull request!
+
+
+
 ### Q: This is never going to work! Researchers are too self-interested!
 
 A: We're not sure if this is going to work either! ML Retrospectives is an experiment to see if there is appetite in the community for this kind of honest discussion. We think that even if a few people start writing retrospectives, this could have an impact, at least for people who read the original papers. Hopefully, it also starts debate and conversation around how to improve the scientific process. 
@@ -33,11 +37,11 @@ A: To our knowledge, having a repository for authors' critiques of their past pa
 
 ### Q: I'm having trouble writing or uploading my retrospective. What should I do?
 
-A: Reach out and contact Ryan Lowe at *ryan.lowe@mail.mcgill.ca*.
+A: Reach out and contact the team at *ml.retrospectives@gmail.com*.
 
 ### Q: I have an idea for making this even better! What should I do?
 
-A: Also reach out and contact Ryan Lowe at *ryan.lowe@mail.mcgill.ca*.
+A: Also reach out and contact the team at *ml.retrospectives@gmail.com*.
 
 ### Q: Who is involved with this project? 
 

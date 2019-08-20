@@ -73,7 +73,7 @@ That means getting researchers to write papers like how they’d talk to a frien
 
 Have a previous paper where, looking back, you think: *“Huh, there’s a lot more I could say about this now”*? Consider writing a retrospective! [Here’s how to do it](https://ml-retrospectives.github.io/how/).
 
-Questions? Contact *ryan.lowe@mail.mcgill.ca*. 
+Questions? Contact *ml.retrospectives@gmail.com*. 
 
 
 

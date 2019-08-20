@@ -12,7 +12,7 @@ There are three steps to submitting a retrospective:
 
 >**Step 1:**  **Pick a past paper of yours**, where you have something to say beyond what’s already in the paper. 
 
->**Step 2:**  **Write your retrospective!** You can use our [retrospectives template](https://github.com/ml-retrospectives/retrospectives/blob/master/_posts/2099-01-01-retro-template.md), or write it from scratch. If you’re not sure what to write, see our ‘What to write’ section below, or look at some [examples](https://ml-retrospectives.github.io/retrospectives/accepted_retrospectives/) of previous retrospectives. 
+>**Step 2:**  **Write your retrospective!** You can use our [retrospectives template](https://github.com/ml-retrospectives/retrospectives/blob/master/_posts/2099-01-01-retro-template.md), or write it from scratch. If you’re not sure what to write, see our ‘What to write’ section below, or look at some [examples](https://ml-retrospectives.github.io/published_retrospectives/index.html) of previous retrospectives. 
 
 >**Step 3:**  **Submit your retrospective** by submitting a pull request to our GitHub repository [here](https://github.com/ml-retrospectives/retrospectives), with your file in the `_posts` folder. 
 
@@ -20,12 +20,12 @@ Once we confirm that the retrospective was written by an author of the original 
 
 There is no minimum or maximum page limit --- you can write a short update in 20 minutes, or a long article with additional results, graphs, and new perspectives. 
 
-Retrospectives are written in Markdown, which is basically a text file with some simple formatting to support  images and code snippets, and that looks nice on a web page. If you’re unfamiliar with Markdown, see a quick cheat sheet [here](https://en.support.wordpress.com/markdown-quick-reference/) or a longer intro [here](https://www.markdownguide.org/getting-started/). If you’re not sure how to make a pull request, there are many tutorials online, for example [here](https://help.github.com/en/articles/creating-a-pull-request). If you have questions about this process, contact *lowe.ryan.t@gmail.com*. 
+Retrospectives are written in Markdown, which is basically a text file with some simple formatting to support  images and code snippets, and that looks nice on a web page. If you’re unfamiliar with Markdown, see a quick cheat sheet [here](https://en.support.wordpress.com/markdown-quick-reference/) or a longer intro [here](https://www.markdownguide.org/getting-started/). If you’re not sure how to make a pull request, there are many tutorials online, for example [here](https://help.github.com/en/articles/creating-a-pull-request). If you have questions about this process, contact *ml.retrospectives@gmail.com*. 
 
 
 ### What to write
 
-What are things you can write about in a retrospective? In short, you can write about anything that’s relevant to your original paper, but that is not actually contained in the paper. See some examples of previous retrospectives [here](https://ml-retrospectives.github.io/retrospectives/accepted_retrospectives/). 
+What are things you can write about in a retrospective? In short, you can write about anything that’s relevant to your original paper, but that is not actually contained in the paper. See some examples of previous retrospectives [here](https://ml-retrospectives.github.io/published_retrospectives/index.html). 
 
 To give more concrete guidance, below we list three categories of topics that can be considered for writing a retrospective. A retrospective can talk about all or none of these things. Retrospectives can also be accompanied by updates to the original paper; we particularly recommend this if serious flaws were found in the paper. 
 
