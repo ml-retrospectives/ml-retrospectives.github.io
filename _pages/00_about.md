@@ -78,7 +78,7 @@ We think that being open and transparent about your past research is really impo
 #### *The ultimate goal of retrospectives is to make research more human.* 
 That means getting researchers to write papers like how they’d talk to a friend. It means making research transparent and accessible for everyone. And it means creating an environment in the machine learning community where it’s okay to make mistakes. After all, in the scientific endeavor, we’re all on the same team. 
 
-Have a previous paper where, looking back, you think: *“Huh, there’s a lot more I could say about this now”*? Consider writing a retrospective! [Here’s how to do it](https://ml-retrospectives.github.io/how/). Know a paper that you want to see a retrospective written about? 
+Have a previous paper where, looking back, you think: *“Huh, there’s a lot more I could say about this now”*? Consider writing a retrospective! [Here’s how to do it](https://ml-retrospectives.github.io/how/). Know a researcher you think could write a great retrospective? [Let them know on social media!](https://twitter.com/mlretrospectiv1)
 
 Questions? Contact *ml.retrospectives@gmail.com*. 
 
