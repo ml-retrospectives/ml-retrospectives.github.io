@@ -44,7 +44,7 @@ social: true
 
   
   
-#### ***Start writing your retrospective [here](https://ml-retrospectives.github.io/how/)! See some previous examples [here](http://localhost:4000/published_retrospectives/index.html).*** 
+#### ***Start writing your retrospective [here](https://ml-retrospectives.github.io/how/)! See some previous examples [here](https://ml-retrospectives.github.io/published_retrospectives/index.html).*** 
 
 #### ***Submit before September 15 to be considered for the [NeurIPS Retrospectives Workshop](https://ml-retrospectives.github.io/neurips2019/)!***
 
