@@ -14,7 +14,7 @@ There are three steps to submitting a retrospective:
 
 >**Step 2:**  **Write your retrospective!** You can use our [retrospectives template](https://github.com/ml-retrospectives/retrospectives/blob/master/_posts/2099-01-01-retro-template.md), or write it from scratch. If you’re not sure what to write, see our ‘What to write’ section below, or look at some [examples](https://ml-retrospectives.github.io/published_retrospectives/index.html) of previous retrospectives. 
 
->**Step 3:**  **Submit your retrospective** by submitting a pull request to our GitHub repository [here](https://github.com/ml-retrospectives/retrospectives), with your file in the `_posts` folder. 
+>**Step 3:**  **Submit your retrospective** by [opening an Issue in our Github Repository](https://github.com/ml-retrospectives/ml-retrospectives.github.io/issues/new/choose). Click on "Submit Retrospective" and you will already see the default template provided in the Issue body.  
 
 Once we confirm that the retrospective was written by an author of the original paper, it’ll be listed on the website! We strongly recommend that you update your paper on arXiv (if possible) to include a link to your retrospective as a footnote on the first page, and that you let the co-authors of your original paper know that you'll be submitting a retrospective!  
 
