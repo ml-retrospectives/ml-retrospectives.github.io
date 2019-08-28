@@ -17,6 +17,8 @@ original_paper_authors: Alfred Einstein, Mary Curry
 retrospective_author: Alfred Einstein
 ---
 
+~~ Delete this when done: You can test this markdown preview in the "Preview" pane or in our custom editor : https://bouthilx.github.io/retrospectives/submission/ ~~
+
 ### Paper TL;DR
 
 Give a short description of the original paper. What claims did you make? What were the main results?
