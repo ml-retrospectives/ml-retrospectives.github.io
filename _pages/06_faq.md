@@ -54,7 +54,7 @@ A: The idea for retrospectives was originally conceived by Ryan Lowe, in convers
 * [Ryan Lowe](https://www.cs.mcgill.ca/~rlowe1/), Mila / McGill University
 * [Koustuv Sinha](https://www.cs.mcgill.ca/~ksinha4/), Mila / McGill University / Facebook AI
 * [Abhishek Gupta](https://atg-abhishek.github.io/), Microsoft and Montreal AI Ethics Institute
-* [Jessica Forde](https://github.com/jzf2101), Facebook AI
+* [Jessica Forde](https://github.com/jzf2101), Brown University
 * [Xavier Bouthillier](https://mila.quebec/en/person/xavier-bouthillier/), Mila
 * [Peter Henderson](https://www.peterhenderson.co/), Stanford University
 * [Michela Paganini](https://mickypaganini.github.io/), Facebook AI
