@@ -18,7 +18,8 @@ retrospective_author: Alfred Einstein
 ---
 
 ~~ Delete this when done: 
-- You can test this markdown preview in the "Preview" pane or in our custom editor : https://bouthilx.github.io/retrospectives/submission/ 
+** We recommend you write your retrospective in our custom editor, for a better writing experience: https://bouthilx.github.io/retrospectives/submission/ **"
+- You can test this markdown preview in the "Preview" pane 
 - If you want your retrospective to be considered for our NeurIPS Workshop, select the label "NeurIPS Workshop".
 ~~
 
