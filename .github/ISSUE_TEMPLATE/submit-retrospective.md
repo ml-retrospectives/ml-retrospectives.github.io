@@ -17,7 +17,10 @@ original_paper_authors: Alfred Einstein, Mary Curry
 retrospective_author: Alfred Einstein
 ---
 
-~~ Delete this when done: You can test this markdown preview in the "Preview" pane or in our custom editor : https://bouthilx.github.io/retrospectives/submission/ ~~
+~~ Delete this when done: 
+- You can test this markdown preview in the "Preview" pane or in our custom editor : https://bouthilx.github.io/retrospectives/submission/ 
+- If you want your retrospective to be considered for our NeurIPS Workshop, select the label "NeurIPS Workshop".
+~~
 
 ### Paper TL;DR
 
