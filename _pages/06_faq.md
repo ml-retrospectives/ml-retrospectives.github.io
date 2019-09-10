@@ -38,6 +38,9 @@ A: We're not sure if this is going to work either! ML Retrospectives is an exper
 
 A: To our knowledge, having a repository for authors' critiques of their past papers isn't something that has been done before in machine learning (or at least, it's not commonly used). There is a very related project in psychology called the [Loss of Confidence Project](https://lossofconfidence.com/), where researchers can submit forms indicating that they've lost confidence in the main result of their paper. 
 
+### Q: Can I host a Retrospectives workshop at (insert conference here)?
+
+A: Sure! Reach out to us at *ml.retrospectives@gmail.com* and we can discuss how to make that possible. 
 
 ### Q: I'm having trouble writing or uploading my retrospective. What should I do?
 
