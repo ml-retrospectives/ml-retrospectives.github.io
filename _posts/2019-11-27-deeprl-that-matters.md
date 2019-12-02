@@ -1,10 +1,10 @@
 ---
 layout: retrospective
-title:  Deep Reinforcement Learning That Matters- A Closer Look at Policy Gradient Algorithms, Theory and Practice
+title:  Deep Reinforcement Learning That Matters, A Closer Look at Policy Gradient Algorithms, Theory and Practice
 date:   2019-11-27
-original_paper: Deep Reinforcement Learning That Matters- A Closer Look at Policy Gradient Algorithms, Theory and Practice
+original_paper: Deep Reinforcement Learning That Matters, A Closer Look at Policy Gradient Algorithms, Theory and Practice
 original_paper_link: https://https://arxiv.org/pdf/1709.06560.pdf
-original_paper_authors: **Peter Henderson**, **Riashat Islam**, Philip Bachman, Joelle Pineau, Doina Precup, David Meger (**equal contribution**)
+original_paper_authors: Peter Henderson, Riashat Islam, Philip Bachman, Joelle Pineau, Doina Precup, David Meger
 retrospective_author: Riashat Islam
 ---
 
