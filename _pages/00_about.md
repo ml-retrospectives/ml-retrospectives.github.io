@@ -42,11 +42,11 @@ social: true
   </table>   
 
 
-  
+#### ***Our [ICML Retrospectives Workshop](https://icml.cc) proposal was accepted! See you in Vienna!***  
   
 #### ***Start writing your retrospective [here](https://ml-retrospectives.github.io/how/)! See some previous examples [here](https://ml-retrospectives.github.io/published_retrospectives/index.html).*** 
 
-#### ***Submit before September 15 to be considered for the [NeurIPS Retrospectives Workshop](https://ml-retrospectives.github.io/neurips2019/)!***
+
 
 <div style="line-height:40%;">
     <br>
