@@ -12,6 +12,8 @@ news: true
 social: true
 ---
 
+#### ***Our [ICML Retrospectives Workshop](https://icml.cc) proposal was accepted! See you in Vienna!*** 
+
 <table style="background-color: #FAFAFA;">
         <col width="40">
         <col width="100">
@@ -42,9 +44,9 @@ social: true
   </table>   
 
 
-#### ***Our [ICML Retrospectives Workshop](https://icml.cc) proposal was accepted! See you in Vienna!***  
+ 
   
-#### ***Start writing your retrospective [here](https://ml-retrospectives.github.io/how/)! See some previous examples [here](https://ml-retrospectives.github.io/published_retrospectives/index.html).*** 
+#### Start writing your retrospective [here](https://ml-retrospectives.github.io/how/)! See some previous examples [here](https://ml-retrospectives.github.io/published_retrospectives/index.html).
 
 
 
@@ -53,7 +55,6 @@ social: true
 </div>
 
 # What is a retrospective?
-
 
 #### *Think about how you talk about your research when writing a paper.* 
 
