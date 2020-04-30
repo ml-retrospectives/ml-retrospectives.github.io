@@ -1,8 +1,8 @@
 ---
 layout: retrospective
-title:  DLPaper2Code: Auto-Generation of Code from Deep Learning Research Papers
+title:  DLPaper2Code- Auto-Generation of Code from Deep Learning Research Papers
 date:   2019-11-27
-original_paper: DLPaper2Code: Auto-Generation of Code from Deep Learning Research Papers
+original_paper: DLPaper2Code- Auto-Generation of Code from Deep Learning Research Papers
 original_paper_link: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17100/16330
 original_paper_authors: Akshay Sethi, Anush Sankaran, Naveen Panwar, Shreya Khare, Senthil Mani
 retrospective_author: Anush Sankaran

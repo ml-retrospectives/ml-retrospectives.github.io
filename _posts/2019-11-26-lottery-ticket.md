@@ -2,7 +2,7 @@
 layout: retrospective
 title:  Lessons Learned from The Lottery Ticket Hypothesis
 date:   2019-11-27
-original_paper: The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks
+original_paper: The Lottery Ticket Hypothesis- Finding Sparse, Trainable Neural Networks
 original_paper_link: https://arxiv.org/abs/1803.03635
 original_paper_authors: Jonathan Frankle, Michael Carbin
 retrospective_author: Jonathan Frankle
