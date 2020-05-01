@@ -12,7 +12,7 @@ news: true
 social: true
 ---
 
-#### **Submit to our [ICML 2020 Workshop](https://ml-retrospectives.github.io/icml2020/)!! *** 
+#### **Submit to our [ICML 2020 Workshop](https://ml-retrospectives.github.io/icml2020/)!! **
 
 <table style="background-color: #FAFAFA;">
         <col width="40">
