@@ -14,6 +14,8 @@ social: true
 
 ### Submit to our [ICML 2020 Workshop](https://ml-retrospectives.github.io/icml2020/)!!
 
+**News** : We have published the report of [NeurIPS 2019 Retrospectives workshop](https://ml-retrospectives.github.io/assets/files/neurips2019-report.pdf)!
+
 <table style="background-color: #FAFAFA;">
         <col width="40">
         <col width="100">
