@@ -12,7 +12,7 @@ news: true
 social: true
 ---
 
-### Submit to our [ICML 2020 Workshop](https://ml-retrospectives.github.io/icml2020/)!!
+### Submit to our [NeurIPS 2020 Workshop](https://ml-retrospectives.github.io/neurips2020/)!!
 
 **News** : We have published the report of [NeurIPS 2019 Retrospectives workshop](https://ml-retrospectives.github.io/assets/files/neurips2019-report.pdf)!
 
