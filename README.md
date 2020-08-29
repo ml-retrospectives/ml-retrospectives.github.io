@@ -4,6 +4,8 @@
 
 **NeurIPS 2019 Workshop** : https://ml-retrospectives.github.io/neurips2019/
 
+**NeurIPS 2020 Workshop** : https://ml-retrospectives.github.io/neurips2020/
+
 ## Submit your Retrospective
 
 Open an Issue and choose "Submit Retrospective"
